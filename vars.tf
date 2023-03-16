@@ -1,6 +1,6 @@
 
 
-variable "secret" {
+variable "secretkey" {
   type = string
   description = "secrets"
 }
